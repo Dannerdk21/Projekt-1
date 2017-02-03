@@ -1,6 +1,6 @@
 .header {
     width: 100%;
-    background-color:#333333;
+    background-color:black;
     color:white;
     text-align: center;
     font-size:3rem; 
@@ -8,11 +8,18 @@
     font-family: 'Fjalla One', sans-serif;
     
 }
+.header a {
+  color:inherit;
+  -webkit-tap-highlight-color: white;
+}
 
+.header a:hover {
+    text-decoration: none;
+}
 .menu {
     width: 100%;
     border-top: 1px solid #ccc;
-    background-color: #333333;
+    background-color: black;
     color: black;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display:block; 
@@ -45,4 +52,18 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+}
+
+.home-container {
+    padding-top: 30rem;
+    background-image: url(../images/backgroundhome.jpg);
+    width: 100%;
+    height: 1000px;
+    background-size: cover;
+}
+
+.header-container {
+    position: fixed;
+    top:0;
+    width: 100%;
 }
