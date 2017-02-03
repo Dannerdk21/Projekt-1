@@ -12,7 +12,6 @@
   },
   "main": "index",
   "scripts": {
-    "start": "node app.js",
-    "test": "make lint && make test"
+    "start": "node app.js"
   }
 }
