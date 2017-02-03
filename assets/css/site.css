@@ -1,4 +1,4 @@
-.header1 {
+.header {
     width: 100%;
     background-color:#333333;
     color:white;
@@ -9,7 +9,7 @@
     
 }
 
-.menu1 {
+.menu {
     width: 100%;
     border-top: 1px solid #ccc;
     background-color: #333333;
@@ -18,7 +18,7 @@
     display:block; 
 }
 
-.menu1 ul {
+.menu ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -26,60 +26,23 @@
     text-align:center;
 }
 
-.menu1 ul li {
+.menu ul li {
     display: inline-block;
     font-size: 1.7rem;
 }
-.menu1 ul li a:hover {
+.menu ul li a:hover {
     color: black;            
 }
 
-.menu1 ul li:hover {
+.menu ul li:hover {
     background-color: #ffffff;
     color: black;
 }
 
-.menu1 li a {
+.menu li a {
     display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-}
-
-.header2 {
-width: 100%;
-background-color:#121212;
-padding:15rem;
-color:red;
-height:70rem;
-font-size:20pt;
-}
-
-.header3 {
-width: 100%;
-background-color:#F2F2F2;
-padding:15rem;    
-color:#2ecc71;    
-}
-
-.header4 {
-width: 100%;
-background-color:#171A19;
-padding:15rem;    
-color:#3498db;   
-}
-
-.footer1 {
-width: 100%;
-background-color: #2A2A2A;
-padding:15rem;    
-
-
-}
-
-h1 { 
-    margin:0;
-    
-        
 }
