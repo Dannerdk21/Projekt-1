@@ -6,6 +6,7 @@
     font-size:3rem; 
     padding:1rem;
     font-family: 'Fjalla One', sans-serif;
+    
 }
 
 .menu1 {
@@ -50,7 +51,10 @@
 width: 100%;
 background-color:#121212;
 padding:15rem;
-color:#c0392b;   
+color:red;
+background-image:url("http://more-sky.com/data/out/6/IMG_109884.png");
+height:70rem;
+font-size:20pt;
 }
 
 .header3 {
@@ -77,5 +81,6 @@ padding:15rem;
 
 h1 { 
     margin:0;
+    
         
 }
