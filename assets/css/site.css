@@ -56,7 +56,6 @@
 
 .home-container {
     padding-top: 30rem;
-    background-image: url(../images/backgroundhome.jpg);
     width: 100%;
     height: 1000px;
     background-size: cover;
@@ -67,3 +66,71 @@
     top:0;
     width: 100%;
 }
+
+.footer-container {
+    width:100%;
+    max-width:100%;
+    padding: 2rem;
+    background:black;
+}
+
+.footer-content .column {
+    text-align: center;
+    height: 6rem;
+}
+
+.column1 {
+    background-color: yellow;    
+}
+
+.column2 {
+    background-color: green;    
+}
+
+.column3 {
+    background-color: blue;  
+}
+
+.column4 {
+    background-color: red;
+}
+
+.game-container {
+padding-top: 12rem;
+    width: 100%;
+    height: 1000px;
+    background-size: cover;
+}
+
+.forum-container {
+ padding-top: 12rem;
+    width: 100%;
+    height: 1000px;
+    background-size: cover;   
+}
+.leaderboard-container {
+padding-top: 12rem;
+    width: 100%;
+    height: 1000px;
+    background-size: cover;    
+}
+.modding-container {
+padding-top: 12rem;
+    width: 100%;
+    height: 1000px;
+    background-size: cover;    
+}
+.media-container {
+padding-top: 12rem;
+    width: 100%;
+    height: 1000px;
+    background-size: cover;
+}
+
+.buy-container {
+    padding-top: 12rem;
+    width: 100%;
+    height: 1000px;
+    background-size: cover;    
+}
+
