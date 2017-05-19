@@ -151,12 +151,9 @@ font-size: 16pt;
 font-weight: bold;          
 }
 
-column5 {
-background-color: blue;    
-}
 
 body {
-background-color: white;    
+background-color:white;    
 }
 
 ul {
@@ -165,8 +162,8 @@ text-align: left;
 }
 
 .main {
-height:90rem;
-background-color: red;
+height:88rem;
+background-color: #BDC3C7;
 margin-right: 10rem;
 margin-left: 10rem;    
 }
