@@ -166,5 +166,7 @@ text-align: left;
 
 .main {
 height:90rem;
-background-color: blue;    
+background-color: red;
+margin-right: 10rem;
+margin-left: 10rem;    
 }
