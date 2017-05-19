@@ -163,3 +163,8 @@ ul {
 list-style-type: none;
 text-align: left;
 }
+
+.main {
+height:90rem;
+background-color: blue;    
+}
